@@ -1,2 +1,2 @@
 # QGIS-NYC
- GIS Project
+ GIS Project - Luke - Isabella - Hakeem
