@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <title>Building District USN Polygons</title>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>Publication frequency: Source layer updated continuously; service refreshed daily.NOTE: To ensure the features are up to date, SHPO strongly recommends using the web service rather than an exported download.This feature layer is maintained by the New York State Division for Historic Preservation, also known as the New York State Historic Preservation Office (SHPO). For more information, see SHPO’s website: https://parks.ny.gov/shpo/Accessing this dataset does not constitute “consultation” with SHPO under Section 106 of the National Historic Preservation Act of 1966 or with DHP under Section 14.09 of the New York State Historic Preservation ActThe source data is continuously updated in the New York State Cultural Resource Information System (CRIS): https://cris.parks.ny.gov/These polygon features represent historic districts that SHPO has inventoried in CRIS. Historic districts are generally composed of buildings and structures, but they may include objects and sites. These features are identified by Unique Site Numbers, or USNs. Each USN record includes the EligibilityDesc field, which denotes the USN’s eligibility for listing on the New York State Register and National Register of Historic Places:Listed: The USN is listed on the State and/or National Register of Historic Places, or is a National Historic Landmark.Eligible: SHPO has determined that the USN is eligible for the State and National Registers of Historic Places, either individually or as part of a proposed historic district. USNs that are currently eligible may be reevaluated as not eligible based on new information or substantial loss of historic integrity.Not Eligible: SHPO has determined that the USN is not eligible for the State or National Register of Historic Places. USNs that are currently not eligible may later be determined to be eligible based on criteria such as new information, additional research, or the passage of time.Undetermined: SHPO has not formally evaluated the USN’s eligibility or an evaluation record is not available.Not Eligible - Demolished: The USN has been demolished and is thus not eligible for the State or National Register of Historic Places.SHPO cannot guarantee the accuracy of all features. We’re continuously working to improve the quality of the spatial data, so if you find corrections, please send them to CRISHelp@parks.ny.gov.</abstract>
+            <purpose>Historic districts that the New York State Division for Historic Preservation has inventoried in the New York State Cultural Resource Information System (CRIS).</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>Historic preservation</themekey>
+                <themekey>New York State</themekey>
+                <themekey>Districts</themekey>
+                <themekey>Historic districts</themekey>
+                <themekey>SHPO</themekey>
+                <themekey>Division for Historic Preservation</themekey>
+                <themekey>New York State Cultural Resource Information System</themekey>
+                <themekey>CRIS</themekey>
+                <themekey>USN</themekey>
+            </theme>
+        </keywords>
+        <accconst>None</accconst>
+        <useconst/>
+        <datacred>Division for Historic Preservation, New York State Office of Parks, Recreation and Historic Preservation</datacred>
+    </idinfo>
+    <metainfo>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
