@@ -1,0 +1,133 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <GDALRasterAttributeTable tableType="athematic">
+      <FieldDefn index="0">
+        <Name>Min</Name>
+        <Type>1</Type>
+        <Usage>3</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>Max</Name>
+        <Type>1</Type>
+        <Usage>4</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>Class</Name>
+        <Type>2</Type>
+        <Usage>2</Usage>
+      </FieldDefn>
+      <FieldDefn index="3">
+        <Name>RedMin</Name>
+        <Type>0</Type>
+        <Usage>10</Usage>
+      </FieldDefn>
+      <FieldDefn index="4">
+        <Name>GreenMin</Name>
+        <Type>0</Type>
+        <Usage>11</Usage>
+      </FieldDefn>
+      <FieldDefn index="5">
+        <Name>BlueMin</Name>
+        <Type>0</Type>
+        <Usage>12</Usage>
+      </FieldDefn>
+      <FieldDefn index="6">
+        <Name>AlphaMin</Name>
+        <Type>0</Type>
+        <Usage>13</Usage>
+      </FieldDefn>
+      <FieldDefn index="7">
+        <Name>RedMax</Name>
+        <Type>0</Type>
+        <Usage>14</Usage>
+      </FieldDefn>
+      <FieldDefn index="8">
+        <Name>GreenMax</Name>
+        <Type>0</Type>
+        <Usage>15</Usage>
+      </FieldDefn>
+      <FieldDefn index="9">
+        <Name>BlueMax</Name>
+        <Type>0</Type>
+        <Usage>16</Usage>
+      </FieldDefn>
+      <FieldDefn index="10">
+        <Name>AlphaMax</Name>
+        <Type>0</Type>
+        <Usage>17</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0.000</F>
+        <F>0.000</F>
+        <F>Transparent 0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+        <F>0</F>
+      </Row>
+      <Row index="1">
+        <F>-1.6200000047684</F>
+        <F>334.0492822229737</F>
+        <F>-1.6200 - 334.0493</F>
+        <F>26</F>
+        <F>150</F>
+        <F>65</F>
+        <F>255</F>
+        <F>166</F>
+        <F>217</F>
+        <F>106</F>
+        <F>255</F>
+      </Row>
+      <Row index="2">
+        <F>334.0492822229737</F>
+        <F>669.7185644507158</F>
+        <F>334.0493 - 669.7186</F>
+        <F>166</F>
+        <F>217</F>
+        <F>106</F>
+        <F>255</F>
+        <F>255</F>
+        <F>255</F>
+        <F>192</F>
+        <F>255</F>
+      </Row>
+      <Row index="3">
+        <F>669.7185644507158</F>
+        <F>1005.387846678458</F>
+        <F>669.7186 - 1005.3878</F>
+        <F>255</F>
+        <F>255</F>
+        <F>192</F>
+        <F>255</F>
+        <F>253</F>
+        <F>174</F>
+        <F>97</F>
+        <F>255</F>
+      </Row>
+      <Row index="4">
+        <F>1005.387846678458</F>
+        <F>1341.0571289062</F>
+        <F>1005.3878 - 1341.0571</F>
+        <F>253</F>
+        <F>174</F>
+        <F>97</F>
+        <F>255</F>
+        <F>215</F>
+        <F>25</F>
+        <F>28</F>
+        <F>255</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MAXIMUM">1341.0571289062</MDI>
+      <MDI key="STATISTICS_MEAN">97.770180144134</MDI>
+      <MDI key="STATISTICS_MINIMUM">-1.6200000047684</MDI>
+      <MDI key="STATISTICS_STDDEV">185.06104976557</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">100</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
