@@ -1,0 +1,190 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Building_District_USN_Polygons_753e1d20_8206_4937_bec8_db83cf7b4209": {
+        "enabled": true,
+        "groups": []
+      },
+      "Ecological_Regions_2d598a6c_405f_40c2_badd_bc5e894d9d18": {
+        "enabled": true,
+        "groups": []
+      },
+      "Ecological_Regions_55769d29_19e8_42e0_8847_f7bcb00c6404": {
+        "enabled": true,
+        "groups": []
+      },
+      "NYC_Border_cd4b9bf3_8751_41b6_9947_e29020986797": {
+        "enabled": true,
+        "groups": []
+      },
+      "NYC_Slopes_2_442dbda2_c9c3_444c_817d_38b469215913": {
+        "enabled": true,
+        "groups": []
+      },
+      "NYC_Slopes_2_c5891a82_a346_457b_8127_eb3e84dd4ad7": {
+        "enabled": true,
+        "groups": []
+      },
+      "NYS_Park_Polygon_e3e9c1c7_115e_4c32_9280_a72d13fa2e6a": {
+        "enabled": true,
+        "groups": []
+      },
+      "NYS_Senate_Districts_53bbff06_ca99_42fe_aa26_e0906fb5c658": {
+        "enabled": true,
+        "groups": []
+      },
+      "NYS_State_Land_Assets_2a9e9e85_3df4_43a7_8e81_d3a2d8bb89e5": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:9de32b33": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 3,
+      "layerId": "NYS_Park_Polygon_e3e9c1c7_115e_4c32_9280_a72d13fa2e6a",
+      "name": "NYS_Park_Polygon",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "NYS_State_Land_Assets_2a9e9e85_3df4_43a7_8e81_d3a2d8bb89e5",
+      "name": "NYS_State_Land_Assets",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "NYS_Senate_Districts_53bbff06_ca99_42fe_aa26_e0906fb5c658",
+      "name": "NYS_Senate_Districts",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "NYC_Border_cd4b9bf3_8751_41b6_9947_e29020986797",
+      "name": "NYC Border",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Ecological_Regions_55769d29_19e8_42e0_8847_f7bcb00c6404",
+      "name": "Ecological_Regions",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Ecological_Regions_2d598a6c_405f_40c2_badd_bc5e894d9d18",
+      "name": "Ecological_Regions",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Building_District_USN_Polygons_753e1d20_8206_4937_bec8_db83cf7b4209",
+      "name": "Building_District_USN_Polygons",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "NYC_Slopes_2_442dbda2_c9c3_444c_817d_38b469215913",
+      "name": "NYC Slopes 2",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "NYS_Park_Polygon_e3e9c1c7_115e_4c32_9280_a72d13fa2e6a",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "a54fc3df",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "a54fc3df",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "NYC_Slopes_2_c5891a82_a346_457b_8127_eb3e84dd4ad7",
+      "name": "NYC Slopes 2 copy",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:9de32b33",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 0,
+    "comboBox_xyShift": true,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "-8316800.707366059",
+    "lineEdit_CenterY": "5226370.1106652925",
+    "lineEdit_Height": "746673.8260119297",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "746673.8260119297",
+    "lineEdit_zFactor": "50",
+    "slider_Fog": 41
+  },
+  "Version": 20800
+}
